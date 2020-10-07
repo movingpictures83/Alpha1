@@ -1,2 +1,2 @@
-correlationfile	Alpha1.spearman.multiomics.merged.filtered.csv
-pathwayfile	pathwayinfo.txt
+correlationfile	pipelines/Alpha-1/Alpha1.spearman.multiomics.merged.filtered.csv
+pathwayfile	pipelines/Alpha-1/pathwayinfo.txt
