@@ -4,7 +4,7 @@ Prefix pipelines/Alpha-1
 
 #######################################
 # NORMALIZE ABUNDANCES
-Plugin CSVNormalize inputfile zr1429.microbes.abund.csv outputfile zr1429.microbes.normabund.csv
+#Plugin CSVNormalize inputfile zr1429.microbes.abund.csv outputfile zr1429.microbes.normabund.csv
 Plugin CSVNormalize inputfile zr1429.metabolites.abund.csv outputfile zr1429.metabolites.normabund.csv
 #######################################
 
