@@ -1,0 +1,5 @@
+Plugin CSVNormalize inputfile microbe.abund.csv outputfile microbe.normabund.csv 
+Plugin Spearman inputfile microbe.normabund.csv outputfile microbe.spearman.csv
+Plugin CSVPad inputfile microbe.spearman.csv outputfile microbe.spearman.padded.csv
+Plugin CSV2GML inputfile microbe.spearman.csv outputfile microbe.spearman.gml
+Plugin AffinityPropagation inputfile microbe.spearman.csv outputfile microbe.spearman
