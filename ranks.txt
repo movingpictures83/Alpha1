@@ -1,2 +1,0 @@
-pipelines/Alpha-1/ranks.microbe.csv
-pipelines/Alpha-1/ranks.metabolite.csv
