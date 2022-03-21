@@ -1,8 +1,8 @@
-Prefix pipelines/Alpha-1/
+Prefix pipelines/Alpha1/
 
 Kitty SD1
-Pipeline pipelines/Alpha-1/config.networks.txt
+Pipeline pipelines/Alpha1/config.networks.txt
 Kitty DD
-Pipeline pipelines/Alpha-1/config.networks.txt
+Pipeline pipelines/Alpha1/config.networks.txt
 Kitty SD2
-Pipeline pipelines/Alpha-1/config.networks.txt
+Pipeline pipelines/Alpha1/config.networks.txt
